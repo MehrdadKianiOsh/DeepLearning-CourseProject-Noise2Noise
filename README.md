@@ -2,7 +2,7 @@
 
 This project is consisting of two mini projects:
 
-One can download the images from Kaggle: 
+One can download the dataset from Kaggle: 
 https://www.kaggle.com/datasets/mehrdadkianiosh/noisy-images
 
 Mini-project 1: Noise2Noise is able to reconstruct a signal from learning exclusively from the corrupt signals. In this case, we use this idea to denoise 
