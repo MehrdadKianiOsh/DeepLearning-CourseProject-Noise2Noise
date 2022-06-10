@@ -2,7 +2,8 @@
 
 This project is consisting of two mini projects:
 
-One can download the images from Kaggle: https://www.kaggle.com/datasets/mehrdadkianiosh/noisy-images
+One can download the images from Kaggle: 
+https://www.kaggle.com/datasets/mehrdadkianiosh/noisy-images
 
 Mini-project 1: Noise2Noise is able to reconstruct a signal from learning exclusively from the corrupt signals. In this case, we use this idea to denoise 
 blurry images without training the model with clear images. With the U-Net model that we implemented according to the paper, we have achieved peak signal 
